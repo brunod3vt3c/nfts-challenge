@@ -6,7 +6,7 @@ import {sanityClient, urlFor} from '../sanity';
 import { Collection } from '../typings';
 
 interface Props {
-  collections: Collection[]
+  collections: Collection[];
 }
 
 function Home ({ collections }: Props) {
