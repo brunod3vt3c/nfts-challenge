@@ -47,7 +47,7 @@ function Home ({ collections }: Props) {
       
     </div>
   )
-}
+};
 
 export default Home
 
